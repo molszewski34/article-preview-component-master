@@ -1,6 +1,6 @@
 # social-proof-section-master
 
-![image](https://github.com/molszewski34/FrontEnd-projects/blob/main/cover-3-column-preview-card-component-main.png)
+![image](https://github.com/molszewski34/article-preview-component-master/blob/main/article-preview-component-master.png)
 
 article-preview-component-master is a simple site build with only html and css. Site offers mobile and desktop viewport to navigate it in optimal way. This project is based on FrontEnd Mentor challenge with link [here](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
 
